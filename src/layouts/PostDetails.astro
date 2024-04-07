@@ -30,7 +30,7 @@ const { Content } = await post.render();
 
 const ogImageUrl = typeof ogImage === "string" ? ogImage : ogImage?.src;
 const ogUrl = new URL(
-  ogImageUrl ?? `/posts/${slugifyStr(title)}.png`,
+  ogImageUrl ?? `${SITE.base}/posts/${slugifyStr(title)}.png`,
   Astro.url.origin
 ).href;
 
@@ -160,7 +160,7 @@ const layoutProps = {
       let link = document.createElement("a");
       link.innerText = "#";
       link.className = "heading-link hidden group-hover:inline-block ml-2";
-      link.href = "#" + heading.id;
+      link.href = SITE.base + "#" + heading.id;
       link.ariaHidden = "true";
       heading.appendChild(link);
     }
