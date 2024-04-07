@@ -5,8 +5,6 @@ title: Introduction to our group
 slug: introduction
 featured: true
 draft: false
-tags:
-  - introduction
 description: Introduction to our group
 ---
 
