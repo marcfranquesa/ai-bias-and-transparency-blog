@@ -3,9 +3,9 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://marcfranquesa.github.io",
   base: "/ai-bias-and-explainability-blog",
-  author: "TAED2",
+  author: "TAED G2",
   desc: "Blog about AI Bias and Explainability",
-  title: "TAED2",
+  title: "TAED G2",
   ogImage: "",
   lightAndDarkMode: true,
   postPerPage: 3,
