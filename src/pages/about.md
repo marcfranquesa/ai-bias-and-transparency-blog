@@ -9,6 +9,8 @@ This blog is done for the [Advanced Topics in Data Engineering 1](https://www.up
 
 ### Philosophy Students
 
+- [Ana Beatriz de Queiroz](mailto:anabque@gmail.com)
+- [Kiranjitsingh Dogra](mailto:kdografe81@alumnes.ub.edu)
 - [Joan Escat](mailto:jescatna7@alumnes.ub.edu)
 - [Maria Sans](mailto:msansban7@alumnes.ub.edu)
 
@@ -17,6 +19,7 @@ This blog is done for the [Advanced Topics in Data Engineering 1](https://www.up
 - [Carlos Arbonés](mailto:carlos.arbones@estudiantat.upc.edu)
 - [Núria Arqués](mailto:nuria.arques@estudiantat.upc.edu)
 - [Marc Colomer](mailto:marc.colomer.xaus@estudiantat.upc.edu)
+- [Pere Cornellà](mailto:pere.cornella@estudiantat.upc.edu)
 - [Sílvia Fàbregas](mailto:silvia.fabregas@estudiantat.upc.edu)
 - [Jordi Farràs](mailto:jordi.farras.amigo@estudiantat.upc.edu)
 - [Mauro Filomeno](mailto:mauro.filomeno@estudiantat.upc.edu)
