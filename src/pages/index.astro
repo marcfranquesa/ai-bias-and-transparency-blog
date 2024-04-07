@@ -38,17 +38,8 @@ const socialCount = SOCIALS.filter(social => social.active).length;
           href={`${SITE.base}/about/`}
         >
           About
-        </LinkButton> section for more info.
+        </LinkButton> section for more information.
       </p>
-      {
-        // only display if at least one social link is enabled
-        socialCount > 0 && (
-          <div class="social-wrapper">
-            <div class="social-links">Social Links:</div>
-            <Socials />
-          </div>
-        )
-      }
     </section>
 
     <Hr />
