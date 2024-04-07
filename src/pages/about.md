@@ -3,34 +3,22 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+This blog is done for the [Advanced Topics in Data Engineering 1](https://www.upc.edu/content/grau/guiadocent/pdf/ing/270224) course at _UPC_. We were lucky enough to partner with a group of students from the Philosophy degree at _Universitat de Barcelona_ to help us with the ethical issues regarding our topic, **bias & explainability in artificial intelligence**.
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+## Members
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+### Philosophy Students
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
+- [Joan Escat](mailto:jescatna7@alumnes.ub.edu)
+- [Maria Sans](mailto:msansban7@alumnes.ub.edu)
 
-## Tech Stack
+### Data Science Students
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
-
-## Features
-
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+- [Carlos Arbonés](mailto:carlos.arbones@estudiantat.upc.edu)
+- [Núria Arqués](mailto:nuria.arques@estudiantat.upc.edu)
+- [Marc Colomer](mailto:marc.colomer.xaus@estudiantat.upc.edu)
+- [Sílvia Fàbregas](mailto:silvia.fabregas@estudiantat.upc.edu)
+- [Jordi Farràs](mailto:jordi.farras.amigo@estudiantat.upc.edu)
+- [Mauro Filomeno](mailto:mauro.filomeno@estudiantat.upc.edu)
+- [Marc Franquesa](mailto:marc.franquesa@estudiantat.upc.edu)
+- [Nacho Gris](mailto:ignacio.gris@estudiantat.upc.edu)
