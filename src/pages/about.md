@@ -3,7 +3,7 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-This blog is done for the [Advanced Topics in Data Engineering 1](https://www.upc.edu/content/grau/guiadocent/pdf/ing/270224) course at _UPC_. We were lucky enough to partner with a group of students from the Philosophy degree at _Universitat de Barcelona_ to help us with the ethical issues regarding our topic, **bias & explainability in artificial intelligence**.
+This blog is done for the [Advanced Topics in Data Engineering 1](https://www.upc.edu/content/grau/guiadocent/pdf/ing/270224) course at _UPC_. We were lucky enough to partner with a group of students from the Philosophy degree at _Universitat de Barcelona_ to help us with the ethical issues regarding our topic, **bias & transparency in artificial intelligence**.
 
 ## Members
 

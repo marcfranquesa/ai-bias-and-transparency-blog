@@ -2,9 +2,9 @@ import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
   website: "https://marcfranquesa.github.io",
-  base: "/ai-bias-and-explainability-blog",
+  base: "/ai-bias-and-transparency-blog",
   author: "TAED G2",
-  desc: "Blog about AI Bias and Explainability",
+  desc: "Blog about AI Bias and Transparency",
   title: "TAED G2",
   ogImage: "",
   lightAndDarkMode: true,
@@ -27,7 +27,7 @@ export const LOGO_IMAGE = {
 export const SOCIALS: SocialObjects = [
   {
     name: "Github",
-    href: "https://github.com/marcfranquesa/ai-bias-and-explainability-blog",
+    href: "https://github.com/marcfranquesa/ai-bias-and-transparency-blog",
     linkTitle: ` ${SITE.title} on Github`,
     active: true,
   },
