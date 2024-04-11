@@ -4,8 +4,8 @@ pubDatetime: 2024-04-9T00:00:00
 title: Bias Cheatsheet
 slug: bias-cheatsheet
 featured: true
-draft: false
 description: Here you will find the different types of bias in AI.
+main: True
 ---
 
 ### Bias in Data

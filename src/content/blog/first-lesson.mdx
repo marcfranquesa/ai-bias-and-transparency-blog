@@ -1,0 +1,55 @@
+---
+author: TAED2
+pubDatetime: 2024-04-11T00:00:00
+title: First Lesson
+slug: first-lesson
+featured: true
+description: A summary of our first lesson!
+main: True
+---
+
+import { SITE } from "@config";
+
+A Black Box Society is one where governments and institutions closely monitor people, and individuals are unaware of how much information is collected, how it's used, and its consequences. We currently live in such a society, outlined in Frank Pasquale's book. Under surveillance capitalism, companies have unprecedented access to personal data through online interactions and social media, leading to opaque practices with questionable intentions.
+
+For instance, Cambridge Analytica legally acquired millions of data points on American voters and used them to create algorithms to predict and influence individual voting behavior in the 2016 presidential elections. Most of us are unaware of how surrounding algorithms function and impact us, lacking transparency in their operations.
+
+Transparency involves making data analysis methods, processes, and results understandable and interpretable. It entails clear explanations of data collection, processing, and analysis, as well as justifying model decisions or predictions. Explainability allows people to understand and trust the models and decisions made, enabling all involved parties to detect biases and errors present in the data or the model itself.
+
+Which brings us to today's main topic: **bias**.
+
+Which we can categorize into three main types:
+
+- <ins>Data Biases</ins>: If the data used to train an AI system doesn't
+  represent the entire population, biased and potentially discriminatory models
+  may result.
+- <ins>Design Biases</ins>: Implicit biases of AI designers can unknowingly
+  transfer to the system's behavior, including algorithmic biases.
+- <ins>Sociotechnical Factors</ins>: These factors introduce biases based on
+  social, economic, and cultural contexts, particularly when the model
+  interacts.
+
+In the survey we did before class, nearly 50% claimed they had never encountered a biased system. Which is why we will now guide you along the experiences of an individual named Tim. First through a day in his life and later along more important situations he experiences during his life. We have called the first _Tim's Day_ and the second _Tim's Life_. Click below to proceed to whatever section you like.
+
+<div class="mx-auto flex flex-wrap justify-center">
+  <div class="justify-center px-10">
+    <a href={SITE.base + "/posts/first-session/tims-day"}>
+      <img
+        src={SITE.base + "/young-tim.png"}
+        class="max-h-96"
+        alt="young-tim"
+      />
+      <p class="text-center">Click to go to Tim's day</p>
+    </a>
+  </div>
+  <div class="justify-center px-10">
+    <a href={SITE.base + "/posts/first-session/tims-life"}>
+      <img src={SITE.base + "/tim.png"} class="max-h-96 px-10" alt="tim" />
+      <p class="text-center">Click to go to Tim's life</p>
+    </a>
+  </div>
+</div>
+
+### Note
+
+After the lesson everyone confirmed that they had indeed experienced a biased system before 😉.

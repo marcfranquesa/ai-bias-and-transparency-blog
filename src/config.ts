@@ -6,10 +6,8 @@ export const SITE: Site = {
   author: "TAED G2",
   desc: "Blog about AI Bias and Transparency",
   title: "TAED G2",
-  ogImage: "",
   lightAndDarkMode: true,
   postPerPage: 3,
-  scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
 };
 
 export const LOCALE = {
