@@ -58,12 +58,11 @@ const recentPosts = sortedPosts.filter(
               ))}
             </ul>
           </section>
-          {recentPosts.length > 0 && <Hr />}
         </>
       )
     }
 
-    {
+    <!-- {
       recentPosts.length > 0 && (
         <section id="recent-posts">
           <h2>Recent Posts</h2>
@@ -81,7 +80,7 @@ const recentPosts = sortedPosts.filter(
           </ul>
         </section>
       )
-    }
+    } -->
 
     <div class="all-posts-btn-wrapper">
       <LinkButton href={`${SITE.base}/posts/`}>
