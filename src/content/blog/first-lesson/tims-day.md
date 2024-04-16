@@ -5,7 +5,7 @@ title: Tim's Day
 slug: first-session/tims-day
 featured: true
 description: Here we'll go over events in Tim's day that have been affected by bias.
-main: False
+main: false
 ---
 
 Coming soon...

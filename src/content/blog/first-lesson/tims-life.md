@@ -5,7 +5,7 @@ title: Tim's Life
 slug: first-session/tims-life
 featured: true
 description: Here we'll go over important events in Tim's life that have been affected by bias.
-main: False
+main: false
 ---
 
 Coming soon...

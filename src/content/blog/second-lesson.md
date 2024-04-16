@@ -5,7 +5,7 @@ title: Second Lesson
 slug: second-lesson
 featured: true
 description: An introduction to our case & the several debate topics.
-main: True
+main: true
 ---
 
 # Second Lesson
