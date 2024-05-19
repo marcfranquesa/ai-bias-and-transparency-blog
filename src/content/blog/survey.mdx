@@ -1,0 +1,74 @@
+---
+author: TAED2
+pubDatetime: 2024-05-19T00:00:00
+title: Survey Results
+slug: survey
+featured: True
+description: An analysis of the surveys we sent out.
+main: true
+---
+
+import { SITE } from "@config";
+
+Previous to the first session, we sent a questionnaire to assess the knowledge, opinions and ideas of our classmates. This blog post contains some of the answers and some graphics to illustrate them.
+First of all, 48% of the students responded negatively to the question Have you ever encountered a biased system. Thus, we deduce that most people are not aware of the algorithms that surround them, how they work and in which ways they are biased. This question tested their awareness.
+Those that gave a positive answer, cited a few examples:
+
+- Large Language Models (i.e. ChatGPT)
+- Recommendation systems or Social networks (Instagram, TikTok, Netflix)
+- Search engine or Image Search Engine (Google Imatges or Google Search)
+- Job application automatic hiring process
+- Loan allocation systems
+- University Entrance Exams (PAU in Spain)
+- Correctional Offender Management Profiling for Alternative Sanctions (COMPAS)
+- News Feed
+- Ads online
+
+## Recommender Systems
+
+Most of the students consider their social media feed is highly aligned to their interests, as shown in the following figure. In a scale from 1 (not aligned) to 5 (perfectly aligned), more than 50% answered 4.
+
+<img
+  src={SITE.base + "/survey/image1.png"}
+  alt="pic"
+  className="max-w-lg mx-auto"
+/>
+
+A significant number also replied they often feel overwhelmed by constantly seeing posts about the same topics. However, this is not the case for everybody.
+
+<img
+  src={SITE.base + "/survey/image4.png"}
+  alt="pic"
+  className="max-w-lg mx-auto"
+/>
+
+One of the questions of the questionnaire was related to the 10 sections Youtube recommends to the user at the top of their page. We posed the question: How many of them did they think were representative of them. More than 1/5 gave 10 as an answer. The rest were distributed among the other numbers, ranging from 0 (if they had Youtube history deactivated) to 9.
+
+<img
+  src={SITE.base + "/survey/image2.png"}
+  alt="pic"
+  className="max-w-lg mx-auto"
+/>
+
+When asked about whether they were comfortable with ads appearing based on their previous searches, the distribution of answers is not clear. Most do not have a strong opinion toward any of the two extremes: (1)I find it most convenient as it helps me find what interests me faster, (2) I feel manipulated and insecure as my data is exposed.
+
+<img
+  src={SITE.base + "/survey/image3.png"}
+  alt="pic"
+  className="max-w-lg mx-auto"
+/>
+
+## AI and Medicine
+
+Would you allow an artificial intelligence system to make medical decisions? Everyone agrees that decisions should always be seconded by a professional, serve as support material. When asked about responsibility in case of a wrong diagnosis, everyone agreed the doctor would be the most to blame, and would be assigned a large part of the responsibility for the decisions made through the algorithm.
+Finance
+
+In terms of algorithms applied to finance and loans, in relation to the existing biases there was nuance, due to the fact that they are non-transparent systems, not known to the users, and therefore only inference can be made through the results but no clear statement.
+
+## Transparency and Explainability
+
+- 94% think that the source of data should be disclosed
+- 86% believe that the characteristics/variables that a model takes into account should almost always or always be disclosed
+- 82% believe the same regarding the architecture of a model
+- 14% believe that all software should be Open Source and 66% that at least most or a large part of it should be.
+- Only 16% would consider open sourcing an algorithm that could potentially spread discrimination against some group, under the idea that open source models allow collective action to improve the fairness, inclusion and ethical integrity of the model, as other people can spot and point out biases.
