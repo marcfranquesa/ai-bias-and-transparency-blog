@@ -2,7 +2,7 @@ import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
   website: "https://marcfranquesa.github.io",
-  base: "/ai-bias-and-transparency-blog",
+  base: "",
   author: "TAED G2",
   desc: "Blog about AI Bias and Transparency",
   title: "TAED G2",
