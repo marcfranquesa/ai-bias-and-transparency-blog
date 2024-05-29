@@ -1,8 +1,8 @@
 ---
-author: TAED2
-pubDatetime: 2024-05-28T00:00:00
-title: "Cases: Finance"
-slug: case-finance
+author: TAED G2
+pubDatetime: 2024-05-26T00:00:00
+title: "Case Studies: Finance"
+slug: case-studies/finance
 featured: false
 description: "Exploring cases of bias and transparency: bank loans."
 main: false

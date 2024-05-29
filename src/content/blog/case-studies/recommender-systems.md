@@ -1,8 +1,8 @@
 ---
-author: TAED2
-pubDatetime: 2024-05-28T00:00:00
-title: "Cases: Recommender systems"
-slug: case-recommender
+author: TAED G2
+pubDatetime: 2024-05-26T00:00:00
+title: "Case Studies: Recommender systems"
+slug: case-studies/recommender-systems
 featured: false
 description: "Exploring cases of bias and transparency: political advertising."
 main: false
@@ -30,7 +30,7 @@ Companies have harnessed user profiling on social media to influence behavior, p
 
 <dev>
     <img
-    src="/case-recommender.png"
+    src="/cases-recommender.png"
     alt="Bias loop"
     className="mx-auto"
     width=400

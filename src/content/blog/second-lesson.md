@@ -1,9 +1,9 @@
 ﻿---
-author: TAED2
+author: TAED G2
 pubDatetime: 2024-04-15T00:00:00
 title: Second Lesson
 slug: second-lesson
-featured: true
+featured: False
 description: An introduction to our case & the several debate topics.
 main: true
 ---

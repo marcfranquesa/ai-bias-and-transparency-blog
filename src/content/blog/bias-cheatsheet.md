@@ -1,5 +1,5 @@
 ---
-author: TAED2
+author: TAED G2
 pubDatetime: 2024-04-9T00:00:00
 title: Bias Cheatsheet
 slug: bias-cheatsheet
