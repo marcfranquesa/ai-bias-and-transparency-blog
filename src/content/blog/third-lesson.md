@@ -12,9 +12,9 @@ main: true
 
 In our concluding session we tackled the fundamental question: How to be a good data scientist? We approached this inquiry through a philosophical point of view, drawing upon themes explored in our previous lessons.
 
-At the beginning of the class, we had some students briefly explain what they considered to be the most important aspects of what we covered in the second session, with the intention of sharing these insights with the rest of the group. In the following link you will find the analysis of the activity [link al blog de anàlisi de l’activitat].
+At the beginning of the class, we had some students briefly explain what they considered to be the most important aspects of what we covered in the second session, with the intention of sharing these insights with the rest of the group. In the [following link](/posts/second-lesson-conclusions) you will find the analysis of the activity.
 
-Alongside our theoretical explorations, students actively engaged in a quiz designed to evaluate their comprehension and retention of the key concepts we aimed to impart. Curious to test your own knowledge? Follow the link [link a test de coneixements adquirits] provided to take the quiz and assess your grasp of the material covered.
+Alongside our theoretical explorations, students actively engaged in a quiz designed to evaluate their comprehension and retention of the key concepts we aimed to impart. Curious to test your own knowledge? Follow the [link](https://forms.gle/zEuhGWeu1oSjVU4s8) provided to take the quiz and assess your grasp of the material covered.
 
 ## Postconventional ethics
 
@@ -32,4 +32,4 @@ After recognizing, questioning the methodology, and taking responsibility, it is
 
 Despite efforts, it is important to recognize that biases can persist and affect predictions, perpetuating inequalities and disadvantages. Although it is no longer in our hands, we must not stop here. What I cannot do, someone else can surely do, and to facilitate it, we must try to obtain the maximum possible explainability and transparency. Thus, we want to obtain the opposite of a "black box", what has been called a "white box" or "glass box".
 
-In the following link, you'll discover a post featuring valuable tips on fostering transparency, along with a comprehensive guide for crafting a transparent policy within a company.
+In the [following link](https://blog.hubspot.com/marketing/ai-transparency), you'll discover a post featuring valuable tips on fostering transparency, along with a comprehensive guide for crafting a transparent policy within a company.
