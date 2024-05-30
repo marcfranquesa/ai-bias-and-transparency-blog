@@ -7,7 +7,7 @@ export const SITE: Site = {
   desc: "Blog about AI Bias and Transparency",
   title: "TAED G2",
   lightAndDarkMode: true,
-  postPerPage: 3,
+  postPerPage: 15,
 };
 
 export const LOCALE = {
